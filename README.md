@@ -1,4 +1,4 @@
-![Diablo III logo](Resources\D3Logo.png)
+![Diablo III logo](Resources/D3Logo.png)
 
 <h1 style="text-align: center;">Diablo III - Reaper of Souls Cheat Sheet</h1>
 
