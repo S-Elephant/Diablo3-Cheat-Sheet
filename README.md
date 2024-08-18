@@ -205,7 +205,8 @@ Teleport to `The Bridge of Korsikk (act III)` and walk up and into `The Fields o
 
 ## Leoric's Shinbone
 
-`Leoric's Manor (act I)`. Teleport to `Leoric's Manor Courtyard`, walk inside the manor, go immediately right and check the fireplace.<img src="Resources/LeoricsShinboneLocation.jpg" alt="Leoric's Shinbone location" width="35%" />
+`Leoric's Manor (act I)`. Teleport to `Leoric's Manor Courtyard`, walk inside the manor, go immediately right and check the fireplace.
+<img src="Resources/LeoricsShinboneLocation.jpg" alt="Leoric's Shinbone location" width="35%" />
 
 ## Black Mushroom
 
