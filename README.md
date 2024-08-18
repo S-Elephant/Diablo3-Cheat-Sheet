@@ -81,7 +81,7 @@ For non-empowered rifts, run a Greater Rift 10 levels above your gem's level (if
 
 ---
 
-## <img src="Resources/ConquestAvarice.jpg" alt="Avarice Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Avarice
+## <img src="Resources/ConquestAvarice.jpg" alt="Avarice Conquest" style="width: 64px; height: 64px; object-fit: contain;">  Avarice
 
 > Complete a 50,000,000 gold streak while outside of The Vault and The Inner Sanctum.
 
@@ -95,7 +95,7 @@ Equip an <img src="Resources/AvariceBand.jpg" alt="Avarice Band" style="width: 4
 
 ---
 
-## <img src="Resources/ConquestBossMode.jpg" alt="Boss Mode Conquest" style="width: 64px; height: 64px; object-fit: contain;">Boss mode
+## <img src="Resources/ConquestBossMode.jpg" alt="Boss Mode Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Boss mode
 
 > Kill the following bosses at max level (=usually character level 70) on Torment X or higher within 20 minutes of the start of the game.
 
@@ -115,7 +115,7 @@ Clear act V first (=hardest act), if you can't do it in under 5 minutes then res
 
 ---
 
-## <img src="Resources/ConquestCurses.jpg" alt="Curses Conquest" style="width: 64px; height: 64px; object-fit: contain;">Curses!
+## <img src="Resources/ConquestCurses.jpg" alt="Curses Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Curses!
 
 > Kill 350 or more monsters in a Cursed Chest event at level 70 on Torment X difficulty or higher.
 
@@ -125,7 +125,7 @@ Restart a private game repeatedly from Act 5 (using the minimum game difficulty 
 
 ---
 
-## <img src="Resources/ConquestDivinity.jpg" alt="Divinity Conquest" style="width: 64px; height: 64px; object-fit: contain;">Divinity
+## <img src="Resources/ConquestDivinity.jpg" alt="Divinity Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Divinity
 
 > Reach Greater Rift level 75 Solo.
 
@@ -133,7 +133,7 @@ This is basically a free conquest.
 
 ---
 
-## <img src="Resources/ConquestMastersOfTheUniverse.jpg" alt="Masters of the Universe Conquest" style="width: 64px; height: 64px; object-fit: contain;">Masters of the Universe
+## <img src="Resources/ConquestMastersOfTheUniverse.jpg" alt="Masters of the Universe Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Masters of the Universe
 
 > Master 8 set dungeons.
 
@@ -141,7 +141,7 @@ I recommend skipping this conquest but if not, I recommend doing it using 3 diff
 
 ---
 
-## <img src="Resources/ConquestOnAGoodDay.jpg" alt="On a Good Day Conquest" style="width: 64px; height: 64px; object-fit: contain;">On a Good Day
+## <img src="Resources/ConquestOnAGoodDay.jpg" alt="On a Good Day Conquest" style="width: 64px; height: 64px; object-fit: contain;"> On a Good Day
 
 > Level six Legendary Gems to level 65.
 
@@ -149,7 +149,7 @@ Just play Greater Rifts (between 3 to 5 gem levels per run) and you'll get them 
 
 ---
 
-## <img src="Resources/ConquestSpeedDemon.jpg" alt="Speed Demon Conquest" style="width: 64px; height: 64px; object-fit: contain;">Speed Demon
+## <img src="Resources/ConquestSpeedDemon.jpg" alt="Speed Demon Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Speed Demon
 
 > Complete a Nephalem Rift at level 70 on Torment X or higher in under 2 minutes.
 
@@ -157,7 +157,7 @@ Play <img src="Resources/DemonHunter.jpg" alt="Demon Hunter" style="width: 40px;
 
 ---
 
-## <img src="Resources/ConquestSprinter.jpg" alt="Sprinter Conquest" style="width: 64px; height: 64px; object-fit: contain;">Sprinter
+## <img src="Resources/ConquestSprinter.jpg" alt="Sprinter Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Sprinter
 
 > Complete Acts I through V at level 70 in under 1 hour on any difficulty
 
@@ -165,7 +165,7 @@ I recommend skipping this conquest. However, if you choose to attempt it, make s
 
 ---
 
-## <img src="Resources/ConquestTheThrill.jpg" alt="The Thrill Conquest" style="width: 64px; height: 64px; object-fit: contain;">The Thrill
+## <img src="Resources/ConquestTheThrill.jpg" alt="The Thrill Conquest" style="width: 64px; height: 64px; object-fit: contain;"> The Thrill
 
 > Reach Greater Rift 45 Solo without any Set items equipped.
 
@@ -173,7 +173,7 @@ Equip a (at least somewhat levelled) <img src="Resources/LegacyOfDreams.jpg" alt
 
 ---
 
-## <img src="Resources/ConquestYearsOfWar.jpg" alt="Years of War Conquest" style="width: 64px; height: 64px; object-fit: contain;">Years of War
+## <img src="Resources/ConquestYearsOfWar.jpg" alt="Years of War Conquest" style="width: 64px; height: 64px; object-fit: contain;"> Years of War
 
 > Reach Greater Rift 55 Solo while using the full bonus from six of the following Class Sets.
 
