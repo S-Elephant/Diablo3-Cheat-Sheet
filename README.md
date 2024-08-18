@@ -1,5 +1,4 @@
-![Diablo III logo](Resources/D3Logo.png)
-
+<p align="center"><img src="Resources/D3Logo.png" alt="Diablo III logo"></p>
 <h1 style="text-align: center;">Diablo III - Reaper of Souls Cheat Sheet</h1>
 
 # Tips
