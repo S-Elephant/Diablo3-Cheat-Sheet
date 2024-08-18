@@ -16,6 +16,7 @@
 - After entering a new area/portal you will be immune to everything for 30 seconds. You can refresh this when by quickly leaving and re-entering.
 - Sockets in helms and weapons (after levelling) are somewhat mandatory.
 - You cannot change your starting act in adventure mode.
+- You cannot obtain [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) in both softcore and hardcore.
 
 # External links
 
