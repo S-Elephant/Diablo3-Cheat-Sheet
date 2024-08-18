@@ -1,5 +1,5 @@
 <p align="center"><img src="Resources/D3Logo.png" alt="Diablo III logo"></p>
-<h1 style="text-align: center;">Diablo III - Reaper of Souls Cheat Sheet</h1>
+<h1 style="text-align: center;">Diablo III - Reaper of Souls Cheat Sheet (PC)</h1>
 
 # Tips
 
@@ -14,7 +14,8 @@
 - Use [Ramaladni's Gift](https://diablo.fandom.com/wiki/Ramaladni%27s_Gift) on your best weapons instead of (re)rolling a socket. This basically adds a free mod to your weapon.
 - PC only: click and hold the right mouse button to quickly rearrange abilities on your skill bar near the bottom of the screen.
 - After entering a new area/portal you will be immune to everything for 30 seconds. You can refresh this when by quickly leaving and re-entering.
-- Sockets in helms and weapons (after leveling) are somewhat mandatory.
+- Sockets in helms and weapons (after levelling) are somewhat mandatory.
+- You cannot change your starting act in adventure mode.
 
 # External links
 
@@ -64,10 +65,10 @@ For non-empowered rifts, run a Greater Rift 10 levels above your gem's level (if
 ## Recommended gear
 
 - <img src="Resources/AvariceBand.jpg" alt="Avarice Band" style="width: 40px; height: 40px; object-fit: contain;">[Avarice Band](https://us.diablo3.blizzard.com/en-us/item/avarice-band-Unique_Ring_108_x1) (totally not important to have)
-- <img src="Resources/BrokenCrown.jpg" alt="Broken Crown" style="width: 40px; height: 40px; object-fit: contain;">[Broken Crown](https://us.diablo3.blizzard.com/en-us/item/broken-crown-P2_Unique_Helm_001) (not very important)
+- <img src="Resources/BrokenCrown.jpg" alt="Broken Crown" style="width: 40px; height: 40px; object-fit: contain;">[Broken Crown](https://us.diablo3.blizzard.com/en-us/item/broken-crown-P2_Unique_Helm_001) with socketed non-unique gem of your choice
 - <img src="Resources/EnchantingFavor.jpg" alt="Enchanting Favor" style="width: 40px; height: 40px; object-fit: contain;">[Enchanting Favor](https://us.diablo3.blizzard.com/en-us/item/enchanting-favor-x1_FollowerItem_Templar_Legendary_01) or <img src="Resources/SkeletonKey.jpg" alt="Skeleton Key" style="width: 40px; height: 40px; object-fit: contain;">[Skeleton Key](https://us.diablo3.blizzard.com/en-us/item/skeleton-key-x1_FollowerItem_Scoundrel_Legendary_01) or <img src="Resources/SmokingThurible.jpg" alt="Smoking Thurible" style="width: 40px; height: 40px; object-fit: contain;">[Smoking Thurible](https://us.diablo3.blizzard.com/en-us/item/smoking-thurible-x1_FollowerItem_Enchantress_Legendary_01)
 - <img src="Resources/Goldskin.jpg" alt="Goldskin" style="width: 40px; height: 40px; object-fit: contain;">[Goldskin](https://us.diablo3.blizzard.com/en-us/item/goldskin-Unique_Chest_001_x1) (not very important)
-- <img src="Resources/GlovesOfWorship.jpg" alt="Gloves of Worship" style="width: 40px; height: 40px; object-fit: contain;">[Gloves of Worship](https://us.diablo3.blizzard.com/en-us/item/gloves-of-worship-Unique_Gloves_103_x1)
+- <img src="Resources/GlovesOfWorship.jpg" alt="Gloves of Worship" style="width: 40px; height: 40px; object-fit: contain;">[Gloves of Worship](https://us.diablo3.blizzard.com/en-us/item/gloves-of-worship-Unique_Gloves_103_x1) (these only drop from act II and act IV bounty caches)
 - <img src="Resources/HomingPads.jpg" alt="Homing Pads" style="width: 40px; height: 40px; object-fit: contain;">[Homing Pads](http://us.diablo3.blizzard.com/en-us/item/homing-pads-Unique_Shoulder_001_x1)
 - <img src="Resources/KredesFlame.jpg" alt="Krede's Flame" style="width: 40px; height: 40px; object-fit: contain;">[Krede's Flame](https://us.diablo3.blizzard.com/en-us/item/kredes-flame-Unique_Ring_003_x1) (totally not important to have)
 - <img src="Resources/NemesisBracers.jpg" alt="Nemesis Bracers" style="width: 40px; height: 40px; object-fit: contain;">[Nemesis Bracers](https://us.diablo3.blizzard.com/en-us/item/nemesis-bracers-Unique_Bracer_106_x1)
@@ -90,7 +91,7 @@ Collect 31 T16 bounty caches, dismiss your pet, go to town and open them at once
 
 ### Option 2
 
-Equip an <img src="Resources/AvariceBand.jpg" alt="Avarice Band" style="width: 40px; height: 40px; object-fit: contain;">[Avarice Band](https://us.diablo3.blizzard.com/en-us/item/avarice-band-Unique_Ring_108_x1) and a level 50 <img src="Resources/BoonOfTheHoarder.jpg" alt="Boon of the Hoarder" style="width: 40px; height: 40px; object-fit: contain;">[Boon of the Hoarder](https://us.diablo3.blizzard.com/en-us/item/boon-of-the-hoarder-Unique_Gem_014_x1_PTR) gem and open a T16 [Not the Cow Level](https://diablo.fandom.com/wiki/Not_The_Cow_Level) by putting a <img src="Resources/BovineBardiche.jpg" alt="Bovine Bardiche" style="width: 40px; height: 40px; object-fit: contain;">[Bovine Bardiche](https://us.diablo3.blizzard.com/en-us/item/bovine-bardiche-Unique_Polearm_101_x1) into your Kanai cube.
+Equip an <img src="Resources/AvariceBand.jpg" alt="Avarice Band" style="width: 40px; height: 40px; object-fit: contain;">[Avarice Band](https://us.diablo3.blizzard.com/en-us/item/avarice-band-Unique_Ring_108_x1) (drops from act III and act IV bounty caches) and a level 50 <img src="Resources/BoonOfTheHoarder.jpg" alt="Boon of the Hoarder" style="width: 40px; height: 40px; object-fit: contain;">[Boon of the Hoarder](https://us.diablo3.blizzard.com/en-us/item/boon-of-the-hoarder-Unique_Gem_014_x1_PTR) gem and open a T16 [Not the Cow Level](https://diablo.fandom.com/wiki/Not_The_Cow_Level) by putting a <img src="Resources/BovineBardiche.jpg" alt="Bovine Bardiche" style="width: 40px; height: 40px; object-fit: contain;">[Bovine Bardiche](https://us.diablo3.blizzard.com/en-us/item/bovine-bardiche-Unique_Polearm_101_x1) into your Kanai cube. <img src="Resources/Goldskin.jpg" alt="Goldskin" style="width: 40px; height: 40px; object-fit: contain;">[Goldskin](https://us.diablo3.blizzard.com/en-us/item/goldskin-Unique_Chest_001_x1) and putting max points in the Paragon Gold Pickup Radius also helps.
 
 ---
 
@@ -108,6 +109,10 @@ Equip an <img src="Resources/AvariceBand.jpg" alt="Avarice Band" style="width: 4
 
 Note that everybody in your team who wants the conquest needs to participate in every single of those boss battles. It's 15 bosses in 20 minutes. Bring fast builds, play in a party and run every map together because only 1 person needs to locate the boss and the others can join instantly.
 
+Clear act V first (=hardest act), if you can't do it in under 5 minutes then restart the game.
+
+<img src="Resources/GlovesOfWorship.jpg" alt="Gloves of Worship" style="width: 40px; height: 40px; object-fit: contain;">[Gloves of Worship](https://us.diablo3.blizzard.com/en-us/item/gloves-of-worship-Unique_Gloves_103_x1) (these only drop from act II and act IV bounty caches) can help out in case you hit a Speed Shrine.
+
 ---
 
 ## <img src="Resources/ConquestCurses.jpg" alt="Curses Conquest" style="width: 64px; height: 64px; object-fit: contain;">Curses!
@@ -116,7 +121,7 @@ Note that everybody in your team who wants the conquest needs to participate in 
 
 Restart a private game repeatedly from Act 5 (using the minimum game difficulty required to complete it) and check the `Paths of the Drowned` for `The Cursed Peat` bounty (be prepared for it to take over a hundred attempts). When it appears, it will spawn a cursed chest with a favourable timer. Before attempting, invite 2-3 strong players to join your party.
 
-![CursesConquestBounty](Resources/CursesConquestBounty.jpg)
+![Curses Conquest Bounty](Resources/CursesConquestBounty.jpg)
 
 ---
 
@@ -174,3 +179,45 @@ Equip a (at least somewhat levelled) <img src="Resources/LegacyOfDreams.jpg" alt
 
 Is easy to do but it takes time to complete different 6 sets. 5 pieces plus a <img src="Resources/Rorg.jpg" alt="Ring of Royal Grandeur" style="width: 40px; height: 40px; object-fit: contain;"> [Ring of Royal Grandeur](https://us.diablo3.blizzard.com/en-us/item/ring-of-royal-grandeur-Unique_Ring_107_x1) counts.
 
+---
+
+# Staff of Herding
+
+- May be required for upgrading your altar.
+- All items and recipes are not guaranteed drops, higher game difficulties seem to have increased drop rates. Estimated drop rates are for T16.
+- Item drops apply to a single player only, grouping up is not useful unless the other players already have those items.
+- When you have all 5 items and the plan, craft it at the blacksmith.
+
+<img src="Resources/StafOfHerdingIngredients.jpg" alt="Staff of Herding ingredients" width="25%" />
+
+## Plan: The Staff of Herding
+
+Defeat Izual. Teleport to the `Silver Spire Level 1` > `The Great Span`. Est. drop chance: 10%.
+
+## Wirt's Bell
+
+Buy it from Squirt in Act II in the center of town, left of the enchantress for 100.000 gold.
+
+## Gibbering Gemstone
+
+Teleport to `The Bridge of Korsikk (act III)` and walk up and into `The Fields of Slaughter` and then find and enter the `Caverns of Frost (Level 2)`. You are looking for a [Unique Lacuni Huntress](https://diablo.fandom.com/wiki/Lacuni_Huntress), just fully clearing level 2 is the easiest (it may be hiding in a corner somewhere). Est. spawn rate: 5%.
+<img src="Resources/UniqueLacuniHuntress.jpg" alt="unique Lacuni Huntress" width="70%" />
+
+## Leoric's Shinbone
+
+`Leoric's Manor (act I)`. Teleport to `Leoric's Manor Courtyard`, walk inside the manor, go immediately right and check the fireplace.<img src="Resources/LeoricsShinboneLocation.jpg" alt="Leoric's Shinbone location" width="35%" />
+
+## Black Mushroom
+
+`Cathedral Level 1 (act I)`, spawns only in the room type as shown in the image below. Est. spawn rate: 30%.
+<img src="Resources/BlackMushroomLocation.jpg" alt="Black Mushroom location" width="80%" />
+
+## Liquid Rainbow
+
+Restart the game until you encounter the `Dahlgur Oasis (Act II)` Bounty called `Clear the Mysterious Cave`. The estimated appearance chance of this bounty is around 3%. While the cave can also appear randomly without the bounty, it is generally found towards the bottom and slightly to the left of the waypoint (follow the wall). It is recommended to specifically search for the bounty instead. Once inside, explore both Level 1 and Level 2 of the cave for the `Mysterious Chest`. Although the chest doesn't have a guaranteed spawn, the chance is extremely high.
+
+![Liquid Rainbow Bounty](Resources/LiquidRainbowBounty.jpg)
+
+![Mysterious Cave Entrance](Resources/MysteriousCaveEntrance.jpg)
+
+![Mysterious Chest](Resources/MysteriousChest.jpg)
