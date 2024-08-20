@@ -3,20 +3,21 @@
 
 # Tips
 
-- Start every season by doing the Challenge Rift game mode first as this gives you a lot of starting gold and materials.
-- The maximum number of Blood Shards you can hold in Diablo 3 is determined by the highest solo Greater Rift you've completed.
+- Start every season by doing the [Challenge Rift game mode](https://us.diablo3.blizzard.com/en-us/blog/21353255/welcome-to-challenge-rifts-12-18-2017) first as this gives you a lot of starting gold and materials.
+- The maximum number of <img src="Resources/BloodShard.png" alt="Blood Shard" style="width: 40px; height: 40px; object-fit: contain;">Blood Shards you can hold is determined by the highest solo Greater Rift you've completed.
 - Enable Elective Mode in the option: `Options > Gameplay > Interface > Elective Mode`.
-- My personal recommended starter class: <img src="Resources/DemonHunter.jpg" alt="Demon Hunter" style="width: 40px; height: 40px; object-fit: contain;">Demon Hunter. Because she is fast, has good clear, can use a 6-set all the way into endgame and can use a second crafted set Guardian's Jeopardy ([belt](https://us.diablo3.blizzard.com/en-us/artisan/blacksmith/recipe/guardians-case) + [bracers](https://us.diablo3.blizzard.com/en-us/artisan/blacksmith/recipe/guardians-aversion)) when going [GoD Hungering Arrow](https://maxroll.gg/d3/guides/god-ha-demon-hunter-guide) build. A fast DH build is also useful for conquests.
+- My personal recommended seasonal starter class: <img src="Resources/DemonHunter.jpg" alt="Demon Hunter" style="width: 40px; height: 40px; object-fit: contain;">Demon Hunter. Because she is fast, has good clear, can use a 6-set all the way into endgame and can use a second crafted set Guardian's Jeopardy ([belt](https://us.diablo3.blizzard.com/en-us/artisan/blacksmith/recipe/guardians-case) + [bracers](https://us.diablo3.blizzard.com/en-us/artisan/blacksmith/recipe/guardians-aversion)) when going [GoD Hungering Arrow](https://maxroll.gg/d3/guides/god-ha-demon-hunter-guide) build. A fast DH build is also useful for conquests.
 - Torment XIII (T13) is often considered a magical difficulty number for loot due to its optimal balance between difficulty and loot rewards. Attempt to farm items like the <img src="Resources/Rorg.jpg" alt="Ring of Royal Grandeur" style="width: 40px; height: 40px; object-fit: contain;"> [Ring of Royal Grandeur](https://us.diablo3.blizzard.com/en-us/item/ring-of-royal-grandeur-Unique_Ring_107_x1) on at least T13.
-- Put a ruby into your socketed helm while levelling to 70 for bonus experience, even better if you obtain a <img src="Resources/LeoricsCrown.jpg" alt="Leoric's Crown" style="width: 40px; height: 40px; object-fit: contain;">[Leoric's Crown](https://us.diablo3.blizzard.com/en-us/item/leorics-crown-Unique_Helm_002_p1) (even if it's a low level crown, it's best in slot).
-- White and blue items are generally worth more than yellow items when salvaging.
-- You can craft a level 70 weapon with a reduced level requirement mod (reroll it at the enchantress) for easy levelling past level 40.
-- Use [Ramaladni's Gift](https://diablo.fandom.com/wiki/Ramaladni%27s_Gift) on your best weapons instead of (re)rolling a socket. This basically adds a free mod to your weapon.
-- PC only: click and hold the right mouse button to quickly rearrange abilities on your skill bar near the bottom of the screen.
+- Socketed a ruby into your helm while levelling to 70 for bonus experience, even better if you obtain a <img src="Resources/LeoricsCrown.jpg" alt="Leoric's Crown" style="width: 40px; height: 40px; object-fit: contain;">[Leoric's Crown](https://us.diablo3.blizzard.com/en-us/item/leorics-crown-Unique_Helm_002_p1) (even if it's a low level crown).
+- You can craft a level 70 weapon with a reduced level requirement mod (reroll it at the enchantress) for easy levelling past level 40 or if available (currently season-only) use the [Altar](https://diablo.fandom.com/wiki/Altar_of_Rites) to reduce the level requirement of all items down to level 1.
+- Use [Ramaladni's Gift](https://diablo.fandom.com/wiki/Ramaladni%27s_Gift) on your best weapons instead of (re)rolling a socket. This essentially adds a free mod to your weapon.
+- PC only: click and hold the left mouse button to quickly rearrange abilities on your skill bar near the bottom of the screen.
 - After entering a new area/portal you will be immune to everything for 30 seconds. You can refresh this when by quickly leaving and re-entering.
 - Sockets in helms and weapons (after levelling) are somewhat mandatory.
 - You cannot change your starting act in adventure mode.
-- You cannot obtain [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) in both softcore and hardcore.
+- You cannot obtain [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) in both softcore and hardcore, you can obtain it once per season per account regardless of where you obtain it.
+- <img src="Resources/StoneGauntlets.jpg" alt="Stone Gauntlets" style="width: 40px; height: 40px; object-fit: contain;">[Stone Gauntlets](https://us.diablo3.blizzard.com/en-us/item/stone-gauntlets-P66_Unique_Gloves_007) have no more downside if you take the altar `Omen` (Gain immunity to crowd-controlling effects).
+- <img src="Resources/LegacyOfDreams.jpg" alt="Legacy of Dreams" style="width: 40px; height: 40px; object-fit: contain;">Legacy of Dreams can be obtained in low-level Greater Rifts, with keys farmable in low-level rifts and visions, and while the damage bonus won't appear on your character sheet, it also boosts your pets' damage, making it useful for solo or SSFHC players stuck without set items, [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) or friends.
 
 # External links
 
@@ -61,7 +62,8 @@ For non-empowered rifts, run a Greater Rift 10 levels above your gem's level (if
 
 ## Best overall follower
 
-<img src="Resources/Enchantress.jpg" alt="Enchantress" style="width: 40px; height: 40px; object-fit: contain;">**Enchantress**
+- Softcore: <img src="Resources/Enchantress.jpg" alt="Enchantress" style="width: 40px; height: 40px; object-fit: contain;">Enchantress because she enhances your damage and provides strong crowd control and cooldown reduction.
+- Hardcore: <img src="Resources/Templar.jpg" alt="Templar" style="width: 40px; height: 40px; object-fit: contain;">Templar because he can shield you from all damage for 5 seconds.
 
 ## Recommended gear
 
@@ -170,7 +172,7 @@ I recommend skipping this conquest. However, if you choose to attempt it, make s
 
 > Reach Greater Rift 45 Solo without any Set items equipped.
 
-Equip a (at least somewhat levelled) <img src="Resources/LegacyOfDreams.jpg" alt="Demon Hunter" style="width: 40px; height: 40px; object-fit: contain;">[Legacy of Dreams](https://us.diablo3.blizzard.com/en-us/item/legacy-of-dreams-Unique_Gem_023_x1_PTR).
+Equip a (at least somewhat levelled) <img src="Resources/LegacyOfDreams.jpg" alt="Legacy of Dreams" style="width: 40px; height: 40px; object-fit: contain;">[Legacy of Dreams](https://us.diablo3.blizzard.com/en-us/item/legacy-of-dreams-Unique_Gem_023_x1_PTR).
 
 ---
 
