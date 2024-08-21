@@ -18,6 +18,8 @@
 - You cannot obtain [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) in both softcore and hardcore, you can obtain it once per season per account regardless of where you obtain it.
 - <img src="Resources/StoneGauntlets.jpg" alt="Stone Gauntlets" style="width: 40px; height: 40px; object-fit: contain;">[Stone Gauntlets](https://us.diablo3.blizzard.com/en-us/item/stone-gauntlets-P66_Unique_Gloves_007) have no more downside if you take the altar `Omen` (Gain immunity to crowd-controlling effects).
 - <img src="Resources/LegacyOfDreams.jpg" alt="Legacy of Dreams" style="width: 40px; height: 40px; object-fit: contain;">Legacy of Dreams can be obtained in low-level Greater Rifts, with keys farmable in low-level rifts and visions, and while the damage bonus won't appear on your character sheet, it also boosts your pets' damage, making it useful for solo or SSFHC players stuck without set items, [Haedrig's gift](https://diablo.fandom.com/wiki/Haedrig%27s_Gift) or friends.
+- After reaching level 70, every Legendary or Set item you acquire from any source (drops, chests, gambling, crafting, or Cube recipes) has a 10% chance to be ancient and a 0.25% chance (meaning 1 on 400) to be Primal.
+- Ancient items have a yellow border. Ancient primal items have a red border and have also a red border in the inventory screen and show a red beam when on the floor along with a red pentagram on the minimap.
 
 # External links
 
@@ -76,9 +78,67 @@ For non-empowered rifts, run a Greater Rift 10 levels above your gem's level (if
 - <img src="Resources/KredesFlame.jpg" alt="Krede's Flame" style="width: 40px; height: 40px; object-fit: contain;">[Krede's Flame](https://us.diablo3.blizzard.com/en-us/item/kredes-flame-Unique_Ring_003_x1) (totally not important to have)
 - <img src="Resources/NemesisBracers.jpg" alt="Nemesis Bracers" style="width: 40px; height: 40px; object-fit: contain;">[Nemesis Bracers](https://us.diablo3.blizzard.com/en-us/item/nemesis-bracers-Unique_Bracer_106_x1)
 - <img src="Resources/SpauldersOfZakara.jpg" alt="Spaulders of Zakara" style="width: 40px; height: 40px; object-fit: contain;">[Spaulders of Zakara](https://us.diablo3.blizzard.com/en-us/item/spaulders-of-zakara-Unique_Shoulder_102_x1)
+- <img src="Resources/Thunderfury.jpg" alt="Thunderfury" style="width: 40px; height: 40px; object-fit: contain;">[ThunderFury](https://us.diablo3.blizzard.com/en-us/item/thunderfury-blessed-blade-of-the-windseeker-Unique_Sword_1H_101_x1) combined with <img src="Resources/Wyrdward.jpg" alt="Wyrdward" style="width: 40px; height: 40px; object-fit: contain;">[Wyrdward](https://us.diablo3.blizzard.com/en-us/item/wyrdward-Unique_Ring_102_p2) can stun enemies
 - <img src="Resources/TheFlavorOfTime.jpg" alt="The Flavor of Time" style="width: 40px; height: 40px; object-fit: contain;">[The Flavor of Time](https://us.diablo3.blizzard.com/en-us/item/the-flavor-of-time-P66_Unique_Amulet_001) or [The Ess of Johan](https://us.diablo3.blizzard.com/en-us/item/the-ess-of-johan-Unique_Amulet_104_x1) (Ess of Johan is build specific)
 
 *Note that <img src="Resources/Rorg.jpg" alt="Ring of Royal Grandeur" style="width: 40px; height: 40px; object-fit: contain;"> [Ring of Royal Grandeur](https://us.diablo3.blizzard.com/en-us/item/ring-of-royal-grandeur-Unique_Ring_107_x1) works on your follower and that your follower can equip set items.*
+
+# Kanai's Cube Recipes (PC)
+
+Is acquired by going to the `The Ruins of Sescheron` (act III, Adventure Mode only) and then entering `Elder Sanctum`. It's in a room close to the end of this area.
+
+| Gem used in recipe | Corresponds to this attribute | Corresponds to this Essence |
+|--------|--------------|------------------|
+| <img src="Resources/FlawlessRoyalEmerald.jpg" alt="Flawless Royal Emerald" style="width: 40px; height: 40px; object-fit: contain;">Emerald (Green) | Dexterity    |Essence of Emerald|
+| <img src="Resources/FlawlessRoyalRuby.jpg" alt="Flawless Royal Ruby" style="width: 40px; height: 40px; object-fit: contain;">Ruby (Red) | Strength     |Essence  of Ruby|
+| <img src="Resources/FlawlessRoyalTopaz.jpg" alt="Flawless Royal Topaz" style="width: 40px; height: 40px; object-fit: contain;">Topaz (Yellow) | Intelligence |Essence of Topaz|
+| <img src="Resources/FlawlessRoyalAmethyst.jpg" alt="Flawless Royal Amethyst" style="width: 40px; height: 40px; object-fit: contain;">Amethyst (Purple) | Vitality  |Essence of Amethyst|
+| <img src="Resources/FlawlessRoyalDiamond.jpg" alt="Flawless Royal Diamond" style="width: 40px; height: 40px; object-fit: contain;">Diamond (White) | <None> | Essence of Diamond  |
+
+
+## 1. Extract Legendary Power
+
+Extracts the legendary power from a legendary item, allowing you to equip it in Kanai's Cube without needing to equip the item itself. You can extract a power for your weapon, armor, and jewelry slots.
+
+## 2. Reforge Legendary
+
+Rerolls a legendary item as if it had just dropped, resetting its stats and potentially making it ancient (10% chance) or primal ancient (0.25% meaning 1 on 400).
+
+## 3. Upgrade Rare Item
+
+Converts a rare (yellow) item into a random legendary item of the same type. Useful for acquiring specific legendary items and/or set items and potentially making it ancient (10% chance) or primal ancient (0.25% meaning 1 on 400).
+
+## 4. Convert Set Item
+
+Converts a set item into a different piece from the same set, but it won’t reroll into the same type as the item you placed in the cube.
+
+## 5. Remove Level Requirement
+
+Removes the level requirement from the item.
+
+## 6. Convert Gems
+
+Converts 9 gems of one type into 9 gems of another type. The type is determined by the essence that you put into the Kanai Cube (sold by Squirt in Act II).
+
+## 7. Convert Reusable Parts
+
+Converts 100 [Reusable Parts](https://us.diablo3.blizzard.com/en-us/item/reusable-parts-Crafting_AssortedParts_01) into 100 of another material type based on the input: use a magic item to convert them into [Arcane Dust](https://us.diablo3.blizzard.com/en-us/item/arcane-dust-Crafting_Magic_01) or a rare item to convert them into [Veiled Crystals](https://us.diablo3.blizzard.com/en-us/item/veiled-crystal-Crafting_Rare_01).
+
+## 8. Convert Arcane Dust
+
+Converts 100 [Arcane Dust](https://us.diablo3.blizzard.com/en-us/item/arcane-dust-Crafting_Magic_01) into 100 of another material type based on the input: use a common item to convert them into [Reusable Parts](https://us.diablo3.blizzard.com/en-us/item/reusable-parts-Crafting_AssortedParts_01) or a rare item to convert them into [Veiled Crystals](https://us.diablo3.blizzard.com/en-us/item/veiled-crystal-Crafting_Rare_01).
+
+## 9. Convert Veiled Crystals
+
+Converts 100 [Veiled Crystals](https://us.diablo3.blizzard.com/en-us/item/veiled-crystal-Crafting_Rare_01) into 100 of another material type based on the input: use a common item to convert them into [Reusable Parts](https://us.diablo3.blizzard.com/en-us/item/reusable-parts-Crafting_AssortedParts_01) or a magic item to convert them into [Arcane Dust](https://us.diablo3.blizzard.com/en-us/item/arcane-dust-Crafting_Magic_01).
+
+## 10. Augment Ancient (including Primal) Item
+
+Augments an ancient or primal ancient item with additional stats based on the level of the legendary gem used (I recommend to only use level 125+ gems or a <img src="Resources/WhisperOfAtonement.jpg" alt="Whisper of Atonement" style="width: 40px; height: 40px; object-fit: contain;">[Whisper of Atonement](https://us.diablo3.blizzard.com/en-us/item/whisper-of-atonement-P73_Unique_Gem_128)).
+
+## 11. Upgrade Legendary Item
+
+Upgrades the current item to a guaranteed Ancient Primal item, rerolling all of its stats and removes any augment on it. Works also on set items and you may only wear one of these per character so chose carefully. Unless there are stronger seasonal weapons, it's usually recommended to do this for your weapon. Primal amulets, chests, helmets, pants, rings always roll maximum amount of sockets. You can obtain 100 <img src="Resources/PrimordialAshes.jpg" alt="Primordial Ashes" style="width: 40px; height: 40px; object-fit: contain;">[Primordial Ashes](https://us.diablo3.blizzard.com/en-us/item/primordial-ashes-Crafting_Legendary_Primal_01) by salvaging 2 ancient primal items.
 
 # Conquests (softcore)
 
@@ -225,3 +285,6 @@ Restart the game until you encounter the `Dahlgur Oasis (Act II)` Bounty called 
 ![Mysterious Cave Entrance](Resources/MysteriousCaveEntrance.jpg)
 
 ![Mysterious Chest](Resources/MysteriousChest.jpg)
+
+# Cheat Sheet Version
+Version 1.3.0
